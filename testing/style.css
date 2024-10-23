@@ -68,7 +68,7 @@ button.cta-nav {
   border: 1px solid white;
   border-radius: 3px;
   padding: 2px 5px;
-
+  
 }
 
 button.cta-nav:hover {
@@ -89,7 +89,7 @@ input#global-search {
   height: auto;
   width: auto;
   border: 1px solid white;
-
+  
 }
 
 input#global-search::placeholder {
